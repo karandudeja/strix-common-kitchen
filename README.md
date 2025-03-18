@@ -1,0 +1,1 @@
+# strix-common-kitchen
